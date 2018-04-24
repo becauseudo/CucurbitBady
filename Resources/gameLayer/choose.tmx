@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.4" orientation="orthogonal" renderorder="right-down" width="25" height="15" tilewidth="32" tileheight="32" infinite="0" nextobjectid="25">
+ <tileset firstgid="1" name="choose" tilewidth="32" tileheight="32" tilecount="375" columns="25">
+  <image source="choose.png" width="800" height="480"/>
+ </tileset>
+ <tileset firstgid="376" name="luxian" tilewidth="32" tileheight="32" tilecount="250" columns="25">
+  <image source="luxian.png" width="800" height="341"/>
+ </tileset>
+ <layer name="choose" width="25" height="15">
+  <data encoding="base64" compression="zlib">
+   eJwNwwl0CAQAANBhzH3NbdjYGGaY+2bmnDk2xzbXhrnnNkKhO8rZQVGUWwflvo8OR3eUW9FBuSu38t/7P1tAQEB2cxhoTnMZZG7zmNd85reABS1kYYtY1GCLWdwSlrSUpS1jWUMsZ3krGGqYFa1kuBFWtoqRVrWa1Y2yhtHWtJa1jbGOda1nfRvY0EY2tolNbWZzW9jSVsba2jjb2NZ2treDHY23kwl2totd7WaiSXa3hz3tZbIpptrbPva1n/1NM90BDnSQGQ52iEMd5nBHONJMRznaMY51nOOd4ESznORkn3CKU53mkz7ldGc406d9xmd9zud9wRd9yVnO9mVfcY5zned8F7jQV33N133DRS72Td9yiUt923dc5nLf9T1XuNJVrnaNa13net/3Az/0Ize40Y/9xE1udotb3eZ2d7jTXe52j3vd534PeNBP/czP/cJDHvaIR/3Sr/zab/zW7/zeHzzmcX/0J0940lOe9oxnPed5f/YXL3jRX/3N3/3DS172T//yile95nVveNNb/u0//utt73jXe973gQ995H/+b0A2zG4OA81pLoPMbR7zms/8FrCghSxsEYsabDGLW8KSlrK0ZSxriOUsbwVDDbOilQw3wspWMdKqVrO6UdYw2prWsrYx1rGu9axvAxvayMY2sanNbG4LW9rKWFsbZxvb2s72drCj8XYywc52savdTDTJ7vawp71MNsVUe9vHvvazv2mmO8CBDjLDwQ5xqMMc7ghHmukoRzvGsY5zvBOcaJaTfAzdiZvd
+  </data>
+ </layer>
+ <layer name="luxian" width="25" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzdz2XMlmUYBuDn/WikREIBKUWlQaQUpEFAVLoblBb+EZJKKqF0SwlKdyjdXSrdIN0oCAgc2/ttvHO4ucEvru3Yzh/3fV07gyAI2oeCoAMd6cQXdOZppr//AyJ2fCt/x2CGMPR/7B8X8WZCRJ4ckadG5//q0IWudKM7PfiSr+hJL3rTh77042u+CT3uMJBBoSd3GMZwRjCSUYxmDGND4Q7j+T4U7jCRSaFwhyn8EAp3mMaP/MR0ZjCTWcxmDnOZx3wWsJBFLGYJS1nGz/zCclawklWsZg1rWcd6NrCRTWxmC1vZxnZ2sJNd7GYPe/mV3/idfeznAAc5xGGOcJRjHOcEJznFac7wB2c5x3kucJFLXOYKV7nGdW5wk1v8yV/c5g5/c5d73OcfHvCQICoIQkQRg5jEIjZxiEs84vMCCUhIIhKThBdJykskIzkpSMnLvEIqUpOGV0lLOtKTgYy8xutk4g3e5C0yk4WsZCM7OchJLnLzNnl4h7zkIz8FKMi7vEchCvM+RShKMYpTgpKUojRl+ICylKM8H1KBj/iYT6hIJSpThapUozo1qEktalOHutSjPg1oSCMa04SmfMpnNKM5LWhJK1rThs9pS7voG/+eZ33jeZlHpVmQPw==
+  </data>
+ </layer>
+ <objectgroup name="task">
+  <object id="1" x="82" y="376"/>
+  <object id="2" x="130" y="323"/>
+  <object id="3" x="228" y="266"/>
+  <object id="4" x="172" y="192"/>
+  <object id="5" x="224" y="105"/>
+  <object id="6" x="283" y="220"/>
+  <object id="7" x="353" y="304"/>
+  <object id="8" x="378" y="215"/>
+  <object id="9" x="455" y="122"/>
+  <object id="10" x="586" y="127"/>
+  <object id="11" x="606" y="313"/>
+  <object id="12" x="719" y="206"/>
+ </objectgroup>
+</map>
